@@ -1,12 +1,12 @@
 # Flappy Bird
 
-Made using ![SDL2](https://www.libsdl.org/).
+Made using [SDL2](https://www.libsdl.org/).
 Click to flap your wings and don't hit the ground or pipes.
 
 Dependencies
 ----------
-- ![SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/)
-- ![SDL_image](https://www.libsdl.org/projects/SDL_image/)
+- [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/)
+- [SDL_image](https://www.libsdl.org/projects/SDL_image/)
 
 Compiling
 --------
