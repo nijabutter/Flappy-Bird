@@ -63,6 +63,7 @@ void RenderWindow::render(int p_x, int p_y, const char* p_text, TTF_Font* font, 
 	dst.h = src.h;
 
 	SDL_RenderCopy(renderer, texture, &src, &dst);
+	SDL_DestroyTexture(texutre)
 	SDL_FreeSurface(surface);
 }
 
